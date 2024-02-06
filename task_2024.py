@@ -12,3 +12,12 @@ print("Działa, czy nie działa?")
 
 #czy działa? do commitu nr 2 
 
+print("sprawdzam działanie brancha nr 2")
+#działa, czy nie? 
+
+print("czy teraz branch no 4 działa?")
+
+#kolejne zmiany do brancha z ćwiczenia
+print("branch z ćwiczenia")
+
+print("czy to widać?")
